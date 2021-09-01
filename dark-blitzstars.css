@@ -1,0 +1,172 @@
+body,
+html {
+    color: #555;
+}
+
+.black-and-white .clan-page,
+.black-and-white .first-row,
+.black-and-white .player-stats-history,
+.black-and-white .playerstats-extra,
+.black-and-white .playerstats-header,
+.black-and-white .playerstats-super,
+.black-and-white .tanks-extra,
+.black-and-white .tanks-row,
+.black-and-white .top-clans-page,
+.black-and-white .top-players {
+    color: #DDD;
+    background-color: #222;
+}
+
+.black-and-white .player-hof {
+    background-color: #222;
+    color: #DDD;
+}
+
+.black-and-white .player-stats-section-grid-container {
+    background-color: #161616;
+}
+
+.c3 svg {
+    fill: #DDD;
+}
+
+.chart-card {
+    color: #DDD;
+    background: #111;
+}
+
+.c3-tooltip-container {
+    color: #111;
+}
+
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #FFF;
+}
+
+.black-and-white .playerstats-header .show-hide-text-button.achievements {
+    background-color: #366588;
+    color: #fff;
+}
+
+.subtitle {
+    color: #fff;
+}
+
+.black-and-white .btn-danger {
+    background-color: rgba(228, 7, 0, .5);
+    color: #DDD;
+}
+
+.table-bordered > tbody > tr > td,
+.table-bordered > tbody > tr > th,
+.table-bordered > tfoot > tr > td,
+.table-bordered > tfoot > tr > th,
+.table-bordered > thead > tr > td,
+.table-bordered > thead > tr > th {
+    border: 1px solid #555;
+}
+
+.black-and-white .tanks-extra tr.tank-averages td {
+    background-color: #444;
+}
+
+.signature-block {
+    background-color: #333;
+}
+
+.signature-block input {
+    color: #BBB;
+    background-color: #252525;
+}
+
+.playerstats-page {
+    color: #BBB;
+}
+
+.black-and-white thead th {
+    background-color: #222;
+}
+
+.black-and-white .table-responsive table.table thead,
+.black-and-white .table-responsive table.table thead tr {
+    background-color: #333!important;
+}
+
+.black-and-white .btn {
+    color: #BBB;
+    background-color: #333;
+    border-color: #555;
+}
+
+.black-and-white .table-responsive table.table th.selected {
+    background-color: rgba(228, 7, 0, .5);
+}
+
+.black-and-white .btn.active {
+    color: #fff;
+    background-color: #8B1D19;
+}
+
+.black-and-white .tanks-row .stats-table {
+    background-color: rgba(0, 0, 0, .25);
+}
+
+.black-and-white .tanks-row .stats-table .stats-row.selected {
+    background-color: rgba(0, 0, 0, .25);
+    text-shadow: none;
+}
+
+.form-control {
+    color: #DDD;
+    background-color: #222;
+}
+
+.footer {
+    background-color: #111;
+    color: #DDD;
+}
+
+.black-and-white .playerstats-achievements .achievements-col {
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.left-b,
+.right-b,
+.support-banner {
+    display: none;
+}
+
+.new-header .header-second-bar {
+    background-color: #222;
+}
+
+.main-content-wrap {
+    background-color: #222;
+}
+
+.black-and-white .tank-filters .filter-nations .btn {
+    border: 3px solid #333;
+}
+
+.clan-supporters-page-footers .recent-template,
+.new-header .header-first-bar,
+.recent,
+.black-and-white .tank-filters .filter-nations .btn.active,
+.black-and-white .tanks-extra .tanks-filters .tank-filters .btn-primary.active {
+    background-color: #8B1D19;
+}
+
+.main-content-wrap .center-u {
+    max-width: none;
+}
